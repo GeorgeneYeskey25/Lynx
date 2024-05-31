@@ -19,7 +19,7 @@ WHAT IS LYNX?
 
    Lynx is a fully-featured World Wide Web (WWW) client for users running
    cursor-addressable, character-cell display devices such as vt100 terminals,
-   vt100 emulators running on Windows 95/NT or Macintoshes, or any other
+   vt100 emulators running on Windows 95/NT or Macintoshes, or any other/
    character-cell display.  It will display Hypertext Markup Language (HTML)
    documents containing links to files on the local system, as well as files on
    remote systems running http, gopher, ftp, wais, nntp, finger, or cso/ph/qi
